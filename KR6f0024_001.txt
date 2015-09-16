@@ -1,20 +1,19 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:01:10.660320
+#+DATE: 2015-08-30 20:01:12.031010
 #+TITLE: 佛說優填王經
 #+PROPERTY: CBETA_ID T12n0332
 #+PROPERTY: ID KR6f0024
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 12, No. 332
 #+PROPERTY: VOL 12
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6f0024_T_000-0070c>¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6f0024_T_001-0070c> ¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.332[Nos.310(29),333]¶
-
- 佛說優填王經¶
+No. 332 [Nos. 310(29), 333]¶
+佛說優填王經¶
 ¶
 西晉沙門釋法炬奉　詔譯¶
 
@@ -47,7 +46,7 @@ No.332[Nos.310(29),333]¶
 
 逝心曰：「非爾女人所知，汝不樂者便還歸。」¶
 乃自將女詣佛所，稽首佛足，白佛言：「大人¶
-勤勞教授，身無供養。有是麁女，願給箕帚。」
+勤勞教授，身無供養。有是麁女，願給箕[竺-二+帚]。」
 
 佛
 <pb:KR6f0024_T_001-0071a>¶
@@ -106,8 +105,7 @@ No.332[Nos.310(29),333]¶
 之態，入其羅網尠能自拔，吾聞其禍必以¶
 自誡，國民巨細得以改操。」
 
-佛言：「用此問¶
-為？且說餘義。」
+佛言：「用此問為？且說餘義。」
 
 王曰：「餘事異日說之不晚，女¶
 亂惑意兇禍之大，不聞其禍何緣遠之？願¶
