@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 佛說優填王經
+#+DATE: 2015-08-30 20:01:10.867936
+#+PROPERTY: JUAN 0
